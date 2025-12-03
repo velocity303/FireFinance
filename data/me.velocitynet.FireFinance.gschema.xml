@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="firefinance">
+	<schema id="me.velocitynet.FireFinance" path="/me/velocitynet/FireFinance/">
+	</schema>
+</schemalist>
